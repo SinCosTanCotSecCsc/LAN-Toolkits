@@ -31,7 +31,7 @@
 - 在Key输入服务器授权密钥:B0eCXMC8hUIviCULXH9STBoqGd+hlpdiJXbmnU4fJr0=
 - 应用即可
 ### 简传
-> 简传是一个使用浏览器网址访问的传输应用,且局域网中仅需配置一个简传服务,我会一直开着简传服务,在浏览器输入http://10.243.236.173:7072可访问。有兴趣可以自己装个玩玩
+> 简传是一个使用浏览器网址访问的传输应用,且局域网中仅需配置一个简传服务,我会一直开着简传服务,在浏览器输入 http://10.243.236.173:7072 可访问。有兴趣可以自己装个玩玩
 
 ### TeamSpeak
 - 下载并安装[TeamSpeak TS5 Client](https://www.teamspeak.com/zh-CN/downloads/#ts5client)
